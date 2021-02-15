@@ -3,4 +3,4 @@
 
 ![](images/task1img.PNG)
 
-Find the solution at
+[Find the solution here](https://github.com/gunjapandey/The-Sparks-Foundation-Tasks/blob/main/Task1.ipynb)
