@@ -11,3 +11,9 @@
 
 [Find the solution here](https://github.com/gunjapandey/The-Sparks-Foundation-Tasks/blob/main/Task2.ipynb)
 
+
+# Task number 3
+
+![](images/task3img.PNG)
+
+[Find the solution here](https://github.com/gunjapandey/The-Sparks-Foundation-Tasks/blob/main/Task3.ipynb)
